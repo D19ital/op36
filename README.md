@@ -1,24 +1,22 @@
-## Omega Point 36 is an ergonomic, split, mechanical keyboard with five thumb keys on each half and the ability to install encoders on either half
+## Omega Point 36 is ultra-compact wireless mechanical keyboard
 
-*Omega Point 36 keeps a 40% footprint, a 36-key layout, and clean ergonomics across two versions: the Wired Edition and the Wireless Edition*
-
-![K:03 v4](images/K03_v4.png)
+![Omega Point 36](images/Op36.jpg)
 
 ## Design philosophy
-K:03 combines futuristic styling, a compact form factor, and practical ergonomics. The Wired Edition is built for a feature-rich daily setup, and the Wireless Edition adds Bluetooth portability
+Omega Point 36 the most minimalist and compact keyboard we've ever created: easy to carry, wireless, and only 18 keys on each half, but we assure you that's enough with the sophisticated firmware that gives you advanced functions to customize the keyboard
 
-![K:03 v4 WE](images/K03_v4_WE.png)
+![Omega Point 36](images/Op36_1.jpg)
 
 ## Features
-- Split, ergonomic design
+- Split, ultra-compact, minimalist design
 - Powered by nRF52840 and RMK/ZMK firmware
 - 36 fully programmable keys and 15 additional layers for all your tasks
 - Hot-swappable PCB (MX sockets)
-- Bluetooth connectivity for up to 6 devices
+- Bluetooth connectivity
 - Rechargeable 120 mAh battery
 - USB-C connection
 
-![K:03 v4 WE Layouts](images/K03_WE_en.png)
+![Omega Point 36 Layouts](images/Op_en.png)
 
 ## This repository contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
